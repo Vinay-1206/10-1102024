@@ -1,0 +1,16 @@
+button {
+    font-size: 18px;
+    padding: 8px;
+    background-color: aliceblue;
+    border: none;
+    outline: 2px solid blue;
+    color: blue;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+}
+
+button:hover {
+    background-color: blue;
+    color: white;
+}
